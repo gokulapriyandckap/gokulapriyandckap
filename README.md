@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulapriyandckap&label=Profile%20views&color=0e75b6&style=flat" alt="gokulapriyandckap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulapriyandckap" alt="gokulapriyandckap" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/_iam_gokul_?t=knic4ww3mgf6mnrsxzdpwg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/_iam_gokul_?t=knic4ww3mgf6mnrsxzdpwg&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/_iam_gokul_?t=knic4ww3mgf6mnrsxzdpwg&s=09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_iam_gokul_" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_gokul_?logo=twitter&style=for-the-badge" alt="_iam_gokul_" /></a> </p>
 
 - 🔭 I’m currently working on [Tamil Keyboard](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1)
 
@@ -15,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/_iam_gokul_?t=knic4ww3mgf6mnrsxzdpwg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/_iam_gokul_?t=knic4ww3mgf6mnrsxzdpwg&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/_iam_gokul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iam_gokul_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gokulapriyan-b-6b3b9924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokulapriyan-b-6b3b9924b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21804548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21804548" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gokulapriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokulapriyan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr.kaadhalpsycooooo/?igshid=zddkntzintm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.kaadhalpsycooooo/?igshid=zddkntzintm%3d" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/gokulgokul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/gokulgokul1" height="30" width="40" /></a>
-<a href="https://medium.com/https://gokulapriyan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://gokulapriyan.medium.com/" height="30" width="40" /></a>
+<a href="https://medium.com/@gokulapriyan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gokulapriyan.medium.com/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/bgokulapriyandc1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bgokulapriyandc1?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/bgokulapriyandckap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bgokulapriyandckap/" height="30" width="40" /></a>
 </p>
