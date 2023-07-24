@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
-<h3 align="center">A passionate about Full Stack developer and Data Science Enthusiast.</h3>
+<h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
 
 - 🔭 I’m currently working on [Tamil Keyboard](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1)
 
