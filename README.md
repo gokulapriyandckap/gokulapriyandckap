@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/bc/c6/b2/bcc6b292e29f13c9463b5e7c24ec56c2.jpg)
+![MasterHead](https://i.pinimg.com/564x/9d/14/91/9d1491be725c2f101f2ceaaef9651eac.jpg)
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif" > 
