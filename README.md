@@ -1,6 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGHuIJBKD7oRw/profile-displaybackgroundimage-shrink_350_1400/0/1682945952978?e=1694649600&v=beta&t=Q_zIfXXoD4IjiUWVABwR3tksJ66-DFRZvuVktsIMlso)
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
+<img align="right" alt="Coding" width="400" src='https://iconscout.com/lottie/programmer-working-on-pc-3917154'> 
 
 
 - 🔭 I’m currently working on [Tamil Keyboard](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1)
