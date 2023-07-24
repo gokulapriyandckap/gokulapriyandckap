@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Tamil Keyboard](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1)
 
-- 📝 I regularly write articles on [www.imgokulpeace.wordpress.com](www.imgokulpeace.wordpress.com)
+- 📝 I regularly write articles on [imgokulpeace.wordpress.com](imgokulpeace.wordpress.com)
 
 - 📫 How to reach me **bgokulapriyandckap@gmail.com**
 
