@@ -1,4 +1,4 @@
-![MasterHead](file:///home/dckapl108/Pictures/banner.png)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif" > 
