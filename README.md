@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGHuIJBKD7oRw/profile-displaybackgroundimage-shrink_350_1400/0/1682945952978?e=1694649600&v=beta&t=Q_zIfXXoD4IjiUWVABwR3tksJ66-DFRZvuVktsIMlso)
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/2859399-Freelance-Life-4](https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif)" > 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif" > 
 
 
 - 🔭 I’m currently working on [Tamil Keyboard](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1)
