@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/_iam_gokul_" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_gokul_?logo=twitter&style=for-the-badge" alt="_iam_gokul_" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Application]([https://github.com/gokulapriyandckap/Tamil_Keyboard_V1](https://github.com/gokulapriyandckap/Chat-App))
+- 🔭 I’m currently working on [Chat Application](https://github.com/gokulapriyandckap/Tamil_Keyboard_V1](https://github.com/gokulapriyandckap/Chat-App)
 
 - 📝 I regularly write articles on [[https://imgokulpeace.wordpress.com/](https://imgokulpeace.wordpress.com/)]
 
