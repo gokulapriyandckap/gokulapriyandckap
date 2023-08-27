@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Gokulapriyan</h1>
-<h3 align="center">A passionate Full Stack developer and Data Science Enthusiast.</h3>
+<h3 align="center">A passionate Full Stack developer and Aspiring Python Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" > 
 
 
